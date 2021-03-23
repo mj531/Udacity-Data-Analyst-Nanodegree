@@ -15,3 +15,7 @@ by Melissa Jin
 
 - Project 4: Wrangle and Analyze Twitter Data. \
 The goal of this projec is to wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. The Twitter archive is great, but it only contains very basic tweet information. Additional gathering using url as well as Twitter API, then assessing to define data quality and tidiness issues and cleaning them for analyses and visualizations.
+
+
+- Project 5: Communicate Data Findings. \
+Use Python visualization libraries, including matplotlib and seaborn, to systematically explore a selected dataset, starting from plots of single variables and building up to plots of multiple variables. Then, produce a short presentation that illustrates interesting properties, trends, and relationships that you discovered in your selected dataset.
