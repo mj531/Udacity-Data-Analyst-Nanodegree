@@ -19,3 +19,5 @@ The goal of this projec is to wrangle WeRateDogs Twitter data to create interest
 
 - Project 5: Communicate Data Findings. \
 Use Python visualization libraries, including matplotlib and seaborn, to systematically explore a selected dataset, starting from plots of single variables and building up to plots of multiple variables. Then, produce a short presentation that illustrates interesting properties, trends, and relationships that you discovered in your selected dataset.
+
+If error message pops: "Sorry, something went wrong. Reload?", you could open "https://nbviewer.jupyter.org/" and then paste the notebook link.
